@@ -1,4 +1,4 @@
-import RadioButton from './radio-button';
+import RadioButton from './RadioButton';
 import RadioButtonGroup from './radio-button-group';
 import RadioSwitch from './radio-switch';
 

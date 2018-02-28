@@ -86,9 +86,9 @@ const RadioButtonGroup = (props) => {
                 {...rest}
             >
                 {label &&
-                <legend className="ffe-form-label" style={labelStyle}>
-                    {label}
-                </legend>
+                    <legend className="ffe-form-label" style={labelStyle}>
+                        {label}
+                    </legend>
                 }
                 {overridden || children}
             </fieldset>
